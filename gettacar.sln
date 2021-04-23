@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gettacar", "gettacar.csproj", "{AA6132EB-135E-4844-9DBD-3414D80AA715}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{095670B1-7A01-4AEB-9B5A-B24B402EF9A7}"
+	ProjectSection(SolutionItems) = preProject
+		GetCar_POM.cs = GetCar_POM.cs
+		SetDriver.cs = SetDriver.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA6132EB-135E-4844-9DBD-3414D80AA715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA6132EB-135E-4844-9DBD-3414D80AA715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA6132EB-135E-4844-9DBD-3414D80AA715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA6132EB-135E-4844-9DBD-3414D80AA715}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D0E1E62-EDC4-4106-9265-6F152D0647E3}
+	EndGlobalSection
+EndGlobal
